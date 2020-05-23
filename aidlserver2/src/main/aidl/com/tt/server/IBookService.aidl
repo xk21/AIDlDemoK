@@ -1,6 +1,5 @@
 // IBookService.aidl
 package com.tt.server;
-
 // Declare any non-default types here with import statements
 import com.tt.server.Book;
 import com.tt.server.BookCallBack;

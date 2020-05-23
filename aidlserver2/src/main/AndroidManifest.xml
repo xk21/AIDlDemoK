@@ -15,8 +15,6 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="com.tt.server.BookService" />
-                <category android:name="android.intent.category.DEFAULT"/>
-<!--                <category android:name="android.intent.category.LAUNCHER" />-->
             </intent-filter>
         </service>
 
